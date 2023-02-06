@@ -1,6 +1,6 @@
-# Fancy Section borders
+# Project Title
 
-> A demonstration of various styled section shapes .
+> A demonstration of this fancy project.
 > Live demo [_here_](live_link_here).
 
 ## Table of Contents
