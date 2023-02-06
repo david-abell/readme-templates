@@ -72,6 +72,24 @@ Include unexpected issues / bugs encountered. How were they resolved?
 
 - an issue I found
 
+Code examples
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
+
+```js
+const proudOfThisFunc = () => {
+  console.log("🎉");
+};
+```
+
 ## Instructions
 
 ### Setup
