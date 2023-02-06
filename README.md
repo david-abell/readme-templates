@@ -22,10 +22,6 @@
 
 ## Overview
 
----
-
-<br/><br/>
-
 ### Project Description
 
 - General project description
@@ -56,10 +52,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My Process
 
----
-
-<br/><br/>
-
 ### Built With
 
 - Semantic HTML5 markup
@@ -82,10 +74,6 @@ Include unexpected issues / bugs encountered. How were they resolved?
 
 ## Instructions
 
----
-
-<br/><br/>
-
 ### Setup
 
 `npm install`
@@ -100,25 +88,13 @@ Include unexpected issues / bugs encountered. How were they resolved?
 
 ## Useful resources
 
----
-
-<br/><br/>
-
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
-
----
-
-<br/><br/>
 
 - Website - [Add your name here](https://www.your-site.com)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 - LinkedIn Etc - [Add your name here](https://www.your-site.com)
 
 ## Acknowledgements
-
----
-
-<br/><br/>
